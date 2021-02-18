@@ -6,7 +6,6 @@ function Footer() {
 
   return (<div className='footer'>
     <p>Created by {fullName}</p>
-    <a href="https://github.com/sharon-akaka"><i className="fa fa-github"></i></a>
     <p>Copyright {currentYear}.</p>
   </div>
   );
