@@ -10,7 +10,7 @@ function App() {
       <Heading />
       <div className='space' id='London'>
         <Places 
-          img="https://wallpaperaccess.com/full/1124604.jpg"
+          img="https://blog.londonpass.com/wp-content/uploads/2018/03/london-at-night-feature-423x253.jpg"
           alt="London"
           title="World's Best City"
           cityName="London"
@@ -21,7 +21,7 @@ function App() {
       </div>
       <div id='Berlin'>
       <Places
-        img="https://wallpaperaccess.com/full/1124592.jpg"
+        img="https://www.sebastian-grote.de/blog/wp-content/uploads/2018/04/Berlin_Panorama_bei_Nacht_Fernsehturm.jpg"
         alt="Berlin"
         title="Shoreditch on Steroids"
         cityName="Berlin"
